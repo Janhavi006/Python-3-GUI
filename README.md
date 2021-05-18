@@ -1,1 +1,1 @@
-In this repository I have designed basic form dor GUI using Tkinter.
+In this repository I have designed basic form for GUI using Tkinter.
